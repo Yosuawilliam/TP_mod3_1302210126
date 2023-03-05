@@ -1,0 +1,17 @@
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\bin\Debug\net6.0-windows\yosua william.exe
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\bin\Debug\net6.0-windows\yosua william.deps.json
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\bin\Debug\net6.0-windows\yosua william.runtimeconfig.json
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\bin\Debug\net6.0-windows\yosua william.dll
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\bin\Debug\net6.0-windows\yosua william.pdb
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\obj\Debug\net6.0-windows\yosua william.csproj.AssemblyReference.cache
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\obj\Debug\net6.0-windows\yosua_william.Form1.resources
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\obj\Debug\net6.0-windows\yosua william.csproj.GenerateResource.cache
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\obj\Debug\net6.0-windows\yosua william.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\obj\Debug\net6.0-windows\yosua william.AssemblyInfoInputs.cache
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\obj\Debug\net6.0-windows\yosua william.AssemblyInfo.cs
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\obj\Debug\net6.0-windows\yosua william.csproj.CoreCompileInputs.cache
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\obj\Debug\net6.0-windows\yosua william.dll
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\obj\Debug\net6.0-windows\refint\yosua william.dll
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\obj\Debug\net6.0-windows\yosua william.pdb
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\obj\Debug\net6.0-windows\yosua william.genruntimeconfig.cache
+D:\semester 4\KPL\TP\MOD 3_1302210126\yosua william\yosua william\obj\Debug\net6.0-windows\ref\yosua william.dll
